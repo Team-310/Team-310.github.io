@@ -13,4 +13,4 @@ _Julia P, Angie V, Margaret L, Elliott G_
 ## Member Check in
 **Julia Providell**
 **Angie Valencia**
-
+**Elliott Gillespie**
