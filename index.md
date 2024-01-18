@@ -1,7 +1,7 @@
 ---
 title: Flora Forecast
 ---
-#Home
+# Home
 
 ## Introduction
 **EGR 314**
