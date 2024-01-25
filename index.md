@@ -12,7 +12,7 @@ title: Flora Forecast
 
 ## Report Links  
 [Team Organization](Team_Organization.md)  
-[User Needs, Benching, and Requirements](User_Needs-Benchmarking-Requirements.md)
+[User Needs, Benchmarking, and Requirements](User_Needs-Benchmarking-Requirements.md)
 
 ## Design Ideation
 **Idea Generation**  
