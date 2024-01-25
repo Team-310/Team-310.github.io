@@ -1,8 +1,8 @@
 # Appendix
-##Team Organization
+## Team Organization
 paste  
-##User Needs
+## User Needs
 paste  
-##Design Ideation
+## Design Ideation
 paste  
 
