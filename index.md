@@ -4,7 +4,7 @@ title: Flora Forecast
 # Flora Forecast
 **Team 310**  
 -Julia Providell  
--Angie Valencia  
+-🌷Angie Valencia🌷  
 -Margaret Linde  
 -Elliott Gillespie   
 
