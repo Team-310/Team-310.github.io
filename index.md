@@ -10,12 +10,8 @@ title: Flora Forecast
 
 ### Arizona State University - EGR 314 - Professor Nichols
 
-## Team Organization
- **Project Charter**  
- paste here
+## Team Organization  
 
- **Mission Statement**  
- paste here
 
 ## User Needs, Benchmarking, and Requirements
 **Process**  
