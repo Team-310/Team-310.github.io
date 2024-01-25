@@ -3,12 +3,9 @@ title: Flora Forecast
 ---
 # Home
 
-## Introduction
-**EGR 314**
-_Spring 2024_
-
-## Members
-_Julia P, Angie V, Margaret L, Elliott G_
+## Flora Forecast
+**Team 310**
+_Julia Providell, Angie Valencia, Margaret Linde, Elliott Gillespie_
 
 ## Member Check in
 **Julia Providell**
