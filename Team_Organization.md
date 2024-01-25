@@ -6,9 +6,11 @@ title: Flora Forecast
 paste  
 
 ## Charter  
-paste  
+As a team, our shared goals are to create an innovative and practical product that resonates with common homeowners, ensuring durability and minimal maintenance, adhering to project timelines, and fostering continuous learning and technological advancements. We also would like the product to be colorful and look like a real flower. We view success in this project as an opportunity to develop a valuable addition to our engineering portfolios, apply our knowledge to real-world challenges, and make meaningful professional connections. Our commitment to these goals will serve as the foundation of our team charter, guiding us toward a successful and fulfilling project outcome.
+  
 
 ## Misson Statement  
-paste
+Our mission is to pioneer innovation in smart home technology by developing the 'Flora Forecast' product. We are dedicated to creating a user-centric, durable, and technologically advanced solution that not only resonates with homeowners but also embodies an earthly feel through its unique flower-like design. We will offer practical real-world applications, and our commitment to timely delivery and a culture of continuous learning drives us to enhance our product's capabilities and make a meaningful impact in the smart home industry.
+
 
 
