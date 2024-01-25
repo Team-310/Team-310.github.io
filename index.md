@@ -2,12 +2,13 @@
 title: Flora Forecast
 ---
 # Flora Forecast
-**Team 310**
-*Julia Providell  
-*Angie Valencia  
-*Margaret Linde  
-*Elliott Gillespie   
-Arizona State University, EGR 314, Professor Nichols
+**Team 310**  
+-Julia Providell  
+-Angie Valencia  
+-Margaret Linde  
+-Elliott Gillespie   
+
+### Arizona State University - EGR 314 - Professor Nichols
 
 ## Team Organization
  **Project Charter**  
