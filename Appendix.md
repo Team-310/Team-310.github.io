@@ -16,5 +16,11 @@ paste
 
 
 ### Design Ideation
-paste  
+*Figure 5. Brainstorming Ideas on Jamboard*
+![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/3acb941f-1801-4a76-9f12-065ac1d75c18)  
+*Figure 6. Design Concepts Categorized into 3 Categories*
+![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/f362140b-ba65-4762-80d7-e9a5df01ef8f)  
+
+
+
 
