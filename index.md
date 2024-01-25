@@ -11,7 +11,7 @@ title: Flora Forecast
 ### Arizona State University - EGR 314 - Professor Nichols
 
 ## Team Organization  
-
+[Team Organization](/Team-310/Team-310.github.io//Team_Organization)
 
 ## User Needs, Benchmarking, and Requirements
 **Process**  
