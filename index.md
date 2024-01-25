@@ -6,4 +6,5 @@ title: Flora Forecast
 _Julia Providell, Angie Valencia, Margaret Linde, Elliott Gillespie_  
 Arizona State University, EGR 314, Professor Nichols
 
+ ## **Team Organization**
  
