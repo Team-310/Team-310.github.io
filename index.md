@@ -1,7 +1,7 @@
 ---
-title: Flora Forecast🌷
+title: Flora Forecast
 ---
-# Flora Forecast
+# Flora Forecast🌷
 **Team 310**  
 -Julia Providell  
 -🌷Angie Valencia🌷  
@@ -9,7 +9,7 @@ title: Flora Forecast🌷
 -Elliott Gillespie   
 
 ### Arizona State University - EGR 314 - Professor Nichols  
-Preparation Date: January 26, 2024
+Preparation Date: January 26th, 2024
 
 
 
