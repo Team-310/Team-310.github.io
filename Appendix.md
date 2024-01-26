@@ -1,6 +1,6 @@
 # Appendix
 ### Team Organization
-*Table 1. Communication Preferences*
+<center><h2>*Table 1. Communication Preferences*</h2></center>
 
 
 | Name            | 1st Choice Communication | 2nd Choice Communication | 3rd Choice Communication |
