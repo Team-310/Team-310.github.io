@@ -1,16 +1,22 @@
 # Appendix
 ### Team Organization
 *Table 1. Communication Preferences*
+| Name            | 1st Choice Communication | 2nd Choice Communication | 3rd Choice Communication |
+|-----------------|--------------------------|--------------------------|--------------------------|
+| Julia P.        | Text                     | Discord                  | Email                    |
+| Angie V.        | Text                     | Discord                  | Email                    |
+| Margaret L.     | Text                     | Discord                  | Email                    |
+| Elliott G.      | Text                     | Discord                  | Email                    |
+
+*Figure 1. Meeting Schedule*
+
+*Table 2. Project Roles and Duties*
 | Name            | Role            | Duties  |
 |-----------------|-----------------|---------|
 | Julia Providell | Meeting Leader  | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting |
 | Angie Valencia  | Assignment Leader | Coordinates the team's work on a given assignment to Canvas before the due date            |
 | Margaret Linde  | Meeting Recorder | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned |
 | Elliott Gillespie | Project Monitor | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
-
-*Figure 1. Meeting Schedule*
-
-*Table 2. Project Roles and Duties*
 
 
 ### User Needs
