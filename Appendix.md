@@ -2,6 +2,7 @@
 ### Team Organization
 *Table 1. Communication Preferences*
 
+
 | Name            | 1st Choice Communication | 2nd Choice Communication | 3rd Choice Communication |
 |-----------------|--------------------------|--------------------------|--------------------------|
 | Julia P.        | Text                     | Discord                  | Email                    |
@@ -13,6 +14,7 @@
 ![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/49d06e23-cd85-4ca5-8800-20339e80db1b)
 
 *Table 2. Project Roles and Duties*
+
 
 | Name            | Role            | Duties  |
 |-----------------|-----------------|---------|
