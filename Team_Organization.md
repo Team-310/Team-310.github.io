@@ -3,7 +3,7 @@ title: Flora Forecast
 
 # Team Organization  
 ## Summary  
-paste  
+Our team organization charter is centered on creating 'Flora Forecast', a unique, flower-like smart home product. We prioritize effective communication through text and Discord, with structured meetings every Friday. Team roles, including Meeting Leader and Assignment Leader, are rotated regularly for equitable responsibility distribution. Emphasizing teamwork and accountability, we ensure a collaborative approach and constructive conflict resolution. For detailed team roles and communication preferences, see Appendix A. 
 
 ## Charter  
 As a team, our shared goals are to create an innovative and practical product that resonates with common homeowners, ensuring durability and minimal maintenance, adhering to project timelines, and fostering continuous learning and technological advancements. We also would like the product to be colorful and look like a real flower. We view success in this project as an opportunity to develop a valuable addition to our engineering portfolios, apply our knowledge to real-world challenges, and make meaningful professional connections. Our commitment to these goals will serve as the foundation of our team charter, guiding us toward a successful and fulfilling project outcome.
