@@ -12,6 +12,7 @@ The process for ranking ideas was primarily by gut feeling. We went through each
 
 [Refer to Figure 7 in Appendix](Appendix.md)
 
+*Figure 1. Product Concepts*
 ![Design Ideas](https://github.com/Team-310/Team-310.github.io/assets/157059404/37c3e292-1c56-4b13-a72f-d6664a71bd19)
 
 
