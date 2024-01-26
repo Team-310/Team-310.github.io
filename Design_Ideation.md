@@ -1,4 +1,3 @@
-title: Flora Forecast  
 # Design Ideation
 
 ## Roles
