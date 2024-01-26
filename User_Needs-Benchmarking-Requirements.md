@@ -1,6 +1,7 @@
 ---
-title: Flora Forecast🌷
+title: Flora Forecast
 --- 
+# Flora Forecast🌷
 
 # User Needs, Benchmarking, and Requirements  
 ## Summary  
