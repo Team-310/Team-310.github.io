@@ -1,12 +1,12 @@
 # Appendix
 ### Team Organization
 *Table 1. Communication Preferences*
-![Table](| Name            | 1st Choice Communication | 2nd Choice Communication | 3rd Choice Communication |
+| Name            | 1st Choice Communication | 2nd Choice Communication | 3rd Choice Communication |
 |-----------------|--------------------------|--------------------------|--------------------------|
 | Julia P.        | Text                     | Discord                  | Email                    |
 | Angie V.        | Text                     | Discord                  | Email                    |
 | Margaret L.     | Text                     | Discord                  | Email                    |
-| Elliott G.      | Text                     | Discord                  | Email                    |)
+| Elliott G.      | Text                     | Discord                  | Email                    |
 
 *Figure 1. Meeting Schedule*
 ![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/49d06e23-cd85-4ca5-8800-20339e80db1b)
