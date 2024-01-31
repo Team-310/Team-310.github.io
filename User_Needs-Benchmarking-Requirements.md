@@ -10,5 +10,4 @@ To progress in the design process, the team studied three distinct user stories 
 After a thorough assessment of the project requirements, the team decided upon the sensors that would be used in the final design. Furthermore, considerations of user needs and personal preferences decided upon the implementation of sensors in an aesthetically pleasing way to ensure it meets the needs of our intended audience.  
 
 A comprehensive overview of the Jamboard process, including both unorganized and organized user needs, is provided in the [Appendix](Appendix.md).  
-<span style="color:red;">your text here > </span>
 
