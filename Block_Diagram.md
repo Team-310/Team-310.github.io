@@ -1,13 +1,13 @@
-#Block Diagram
+# Block Diagram
 
-**![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/92e66bca-7429-4866-91a3-9a40ade22a77)
+![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/92e66bca-7429-4866-91a3-9a40ade22a77)
 
 ## **Sensors (Pressure and Temperature)**
 * **Subsystem Responsibility:** These sensors are responsible for gathering environmental data and sending the data to the Microcontroller. The BME280 is the sensor for the atmospheric pressure, and the temperature sensor is the SHT40-AD1B-R2
 * **Contribution to the project:** These sensors provide the raw data necessary to monitor environmental conditions. The data collected will be used to inform users of weather conditions near them when they our Mobile Weather Station App.
 
 ## **Microcontroller**
-* **Subsystem Responsibility: **The microcontroller serves as the central processing unit for the sensor data. It reads data from both sensors, processes it (if necessary), and sends it to the ESP-32. It will also gather responses from the ESP-32 to alert the motor sensor to turn the motor on.
+* **Subsystem Responsibility:** The microcontroller serves as the central processing unit for the sensor data. It reads data from both sensors, processes it (if necessary), and sends it to the ESP-32. It will also gather responses from the ESP-32 to alert the motor sensor to turn the motor on.
 * **Contribution to the Project:** It acts as the brain of the operation, interpreting sensor data and controlling other components based on thresholds and predefined logic.
 
 ## **Motor**
