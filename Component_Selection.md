@@ -13,4 +13,8 @@ Temperature Sensor - [SHT40-AD1B-R2](https://www.digikey.com/en/products/detail/
 Barometric Pressure Sensor - [BME280](https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306)  
 ![Pressure](https://github.com/Team-310/Team-310.github.io/assets/157059404/97e0b5b0-e32a-4cbd-b10e-c8bf5a444dda)
 
-# Power Budget
+# [Power Budget](https://docs.google.com/spreadsheets/d/1HANT8wJLup0bfyjqzk9ScGWXk3m4afTw/edit?usp=sharing&ouid=106828450620415480012&rtpof=true&sd=true)
+![Power1](https://github.com/Team-310/Team-310.github.io/assets/157059404/7d63aacc-fb1e-4310-afa7-3526461bc2ff)  
+![power2](https://github.com/Team-310/Team-310.github.io/assets/157059404/4c7aca6b-efc3-4f52-a489-4dd7ae599e5a)
+
+
