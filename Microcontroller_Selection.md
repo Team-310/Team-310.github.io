@@ -33,7 +33,7 @@
 | Absolute Maximum Current for entire IC     | 350 mA            | 250 mA            | 250 mA            |
 | Maximum GPIO Pin Current (Source/Sink)     | ±50 mA            | ±50 mA            | ±50 mA            |
 | 8-bit or 16-bit Architecture    | 32 Bit            | 16 Bit           | 8 Bit            |
-* VQFN48<br>* VQFN32<br>* TQFP<br>* SSOP<br>* SOIC<br>* SPDIP | * PDIP<br>* SOIC (3.9 mm)<br>* SSOP<br>* UQFN (4x4) | * SPDIP<br>* SOIC<br>* SSOP<br>* VQFN<br>* QFN |
+| Available IC Packages / Footprints | * VQFN48<br>* VQFN32<br>* TQFP<br>* SSOP<br>* SOIC<br>* SPDIP | * PDIP<br>* SOIC (3.9 mm)<br>* SSOP<br>* UQFN (4x4) | * SPDIP<br>* SOIC<br>* SSOP<br>* VQFN<br>* QFN |
 | Supports External Interrupts?    | Yes            | Yes            | Yes           |
 | In-System Programming Capability and Type    | Yes, In-System Programmable    | Yes, In-System Programmable   | Yes, In-Circuit Serial Programming     |
 | Works with MPLAB® X Integrated Development Environment (IDE)?    | Yes            | Yes            | Yes            |
