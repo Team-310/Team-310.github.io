@@ -7,7 +7,7 @@
 * **Contribution to the project:** These sensors provide the raw data necessary to monitor environmental conditions. The data collected will be used to inform users of weather conditions near them when they our Mobile Weather Station App.
 
 ## **Microcontroller**
-* ** Subsystem Responsibility: **The microcontroller serves as the central processing unit for the sensor data. It reads data from both sensors, processes it (if necessary), and sends it to the ESP-32. It will also gather responses from the ESP-32 to alert the motor sensor to turn the motor on.
+* **Subsystem Responsibility: **The microcontroller serves as the central processing unit for the sensor data. It reads data from both sensors, processes it (if necessary), and sends it to the ESP-32. It will also gather responses from the ESP-32 to alert the motor sensor to turn the motor on.
 * **Contribution to the Project:** It acts as the brain of the operation, interpreting sensor data and controlling other components based on thresholds and predefined logic.
 
 ## **Motor**
@@ -21,5 +21,5 @@
 ## **Integration** 
 The microcontroller receives a command from the ESP-32 to start the program then it reads and processes data from the sensors, controls the motor, and then communicates with the ESP32 to upload the information to a web server. This setup integrates sensing, processing, actuating, and communication functions into a cohesive system.
 
-## ** Achievement of Project Requirements** 
+## **Achievement of Project Requirements** 
 This integrated system meets requirements for environmental monitoring and control, with the added capability of remote data access and potentially remote control. This stuctures uses the strengths of each component to achieve an efficient system for our Flora Forecast.
