@@ -28,10 +28,18 @@
 | Absolute Maximum Current for entire IC     | 350 mA            | 250 mA            | 250 mA            |
 | Maximum GPIO Pin Current (Source/Sink)     | ±50 mA            | ±50 mA            | ±50 mA            |
 | 8-bit or 16-bit Architecture    | 32 Bit            | 16 Bit           | 8 Bit            |
-| Available IC Packages / Footprints    | *6LX = VQFN48 *RXB = VQFN32 *PT = TQFP *SS = SSOP *SO = SOIC *SP = SPDIP | *14 - PDIP *14 - SOIC (3.9 mm) *14 - TSSOP *16 - UQFN (4x4) | *SPDIP *SOIC *SSOP *VQFN *QFN |
+| Available IC Packages / Footprints    | * VQFN48 * VQFN32 * TQFP * SSOP * SOIC * SPDIP | * PDIP * SOIC (3.9 mm) * TSSOP * UQFN (4x4) | * SPDIP * SOIC * SSOP * VQFN * QFN |
 | Supports External Interrupts?    | Yes            | Yes            | Yes           |
 | In-System Programming Capability and Type    | Yes, In-System Programmable    | Yes, In-System Programmable   | Yes, In-Circuit Serial Programming     |
 | Works with MPLAB® X Integrated Development Environment (IDE)?    | Yes            | Yes            | Yes            |
 | Works with Microchip Code Configurator?    | Yes            | Yes            | Yes  |
 
 
+*Table 3. Reason for Choosing Microcontrollers*
+
+
+| Write overall pros, cons, and rankings for the chosen microcontrollers |
+| ---------------------------------------------------------------------- |
+| Overall Pro's    | * Features a 32-bit architecture, offering higher computational power and efficiency for complex applications. * Wide supply voltage range (1.8-5.5V), providing flexibility in power supply design | * Lower cost compared to the other options, making it a budget-friendly choice for cost-sensitive projects. * Available in a DIP package, facilitating easy soldering and prototyping for beginners or projects with manual assembly needs. | * Highest number of GPIO pins (28) and ADC inputs (24), ensuring ample connectivity for sensors and actuators. * Supports a wide range of communication protocols including 2 SPI and 2 I2C, offering versatile peripheral connectivity. |
+| Overall Con's    | * Limited number of ADC inputs (14) compared to project requirements, potentially restricting the number of analog sensors that can be directly connected. * Lacks a DIP package option, making it less ideal for projects requiring manual soldering or prototyping on breadboards. | * Fewer GPIO pins (14) than required for projects needing extensive external connections. * Limited ADC inputs (11), restricting the direct interfacing with multiple analog sensors.  |  * Higher cost relative to other options, which may affect budget considerations for the project.  * While it offers a broad feature set, the complexity and capabilities might necessitate a steeper learning curve.  | 
+|Ranking's        | 2   |    3    | 1   |
