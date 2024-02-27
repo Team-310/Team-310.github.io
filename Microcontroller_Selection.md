@@ -1,6 +1,5 @@
 ## Microcontroller Selection 
-*Table 1. Microcontroller Design Conciderations*
-
+_*Table 1. Microcontroller Design Conciderations*_
 
 | Design Considerations | Team Project-Specific Requirements from Problem Definition and Block Diagram | PIC Option 1 | PIC Option 2 | PIC Option 3 |
 | ---------------------- | --------------------------------------------------------------------------- | ------------ | ------------ | ------------ |
@@ -13,8 +12,7 @@
 | Additional considerations specific to your project specifications (optional) | Needs to be easy to solder and not super small | -            | -            | -            |
 
 
-*Table 2. Microcontroller Considerations*
-
+_*Table 2. Microcontroller Considerations*_
 
 | Microcontroller Considerations | PIC Option 1 | PIC Option 2 | PIC Option 3 |
 | ---------------------- | ------------ | ------------ | ------------ |
@@ -28,24 +26,15 @@
 | Absolute Maximum Current for entire IC     | 350 mA            | 250 mA            | 250 mA            |
 | Maximum GPIO Pin Current (Source/Sink)     | ±50 mA            | ±50 mA            | ±50 mA            |
 | 8-bit or 16-bit Architecture    | 32 Bit            | 16 Bit           | 8 Bit            |
-| Production Unit Cost    | $ 1.65           | $ 1.58            | $ 1.76            |
-| Supply Voltage Range    | 1.8 - 5.5 V      | 1.8 - 5.5 V       | 1.8 - 5.5 V       |
-| Absolute Maximum Current for entire IC     | 350 mA            | 250 mA            | 250 mA            |
-| Maximum GPIO Pin Current (Source/Sink)     | ±50 mA            | ±50 mA            | ±50 mA            |
-| 8-bit or 16-bit Architecture    | 32 Bit            | 16 Bit           | 8 Bit            |
 | Available IC Packages / Footprints | * VQFN48<br>* VQFN32<br>* TQFP<br>* SSOP<br>* SOIC<br>* SPDIP | * PDIP<br>* SOIC (3.9 mm)<br>* SSOP<br>* UQFN (4x4) | * SPDIP<br>* SOIC<br>* SSOP<br>* VQFN<br>* QFN |
 | Supports External Interrupts?    | Yes            | Yes            | Yes           |
 | In-System Programming Capability and Type    | Yes, In-System Programmable    | Yes, In-System Programmable   | Yes, In-Circuit Serial Programming     |
 | Works with MPLAB® X Integrated Development Environment (IDE)?    | Yes            | Yes            | Yes            |
 | Works with Microchip Code Configurator?    | Yes            | Yes            | Yes  |
-| Supports External Interrupts?    | Yes            | Yes            | Yes           |
-| In-System Programming Capability and Type    | Yes, In-System Programmable    | Yes, In-System Programmable   | Yes, In-Circuit Serial Programming     |
-| Works with MPLAB® X Integrated Development Environment (IDE)?    | Yes            | Yes            | Yes            |
-| Works with Microchip Code Configurator?    | Yes            | Yes            | Yes  |
 
 
-*Table 3. Reason for Choosing Microcontrollers*
 
+_*Table 3. Reason for Choosing Microcontrollers*_
 
 | Criteria | AVR32DA32 | PIC16F18425 | PIC18F27Q10 |
 |----------|-----------|-------------|-------------|
