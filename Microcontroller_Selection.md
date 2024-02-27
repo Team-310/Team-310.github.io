@@ -18,7 +18,7 @@
 | Microcontroller Considerations | PIC Option 1 | PIC Option 2 | PIC Option 3 |
 | ---------------------- | ------------ | ------------ | ------------ |
 | Part Number    | AVR32DA32 | PIC16F18425          | PIC18F27Q10          |
-| link (URL) to Product Page |[Named Link]([http://www.google.fr/](https://www.microchip.com/en-us/product/avr32da32) "Link")           | 11           | 24           |
+| link (URL) to Product Page |[Link]([http://www.google.fr/](https://www.microchip.com/en-us/product/avr32da32) "Named_Link")           | 11           | 24           |
 | Built-in Hardware PWM? How many?                | 8            | 2            | 2            |
 | Built-in I2C? SPI? How many?                    | 2 SPI and 2 I2C | 2 SPI and 2 I2C | 2 SPI and 2 I2C |
 | Built-in UART? How many?                        | 3            | 1            | 1            |
