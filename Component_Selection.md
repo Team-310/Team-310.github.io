@@ -1,5 +1,5 @@
-## [Component Selection](https://docs.google.com/document/d/1LcmL5Pp_lv0PSCJ3DXv-DvtYZl9i9sau2eAefg3Dcjk/edit?usp=sharing)  
-# Components  
+# [Component Selection](https://docs.google.com/document/d/1LcmL5Pp_lv0PSCJ3DXv-DvtYZl9i9sau2eAefg3Dcjk/edit?usp=sharing)  
+## Components  
 Power Supply - 9V Battery  
 ![Battery](https://github.com/Team-310/Team-310.github.io/assets/157059404/c82bdb55-c936-455e-97de-ff75d56ad892)  
 Voltage Regulator - [LM2575D2T-3.3R4G](https://www.digikey.com/en/products/detail/onsemi/LM2575D2T-3.3R4G/5801702?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Medium%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20223376311_adg-_ad-__dev-c_ext-_prd-5801702_sig-CjwKCAiAibeuBhAAEiwAiXBoJHnZP0vQYhg2BseQ3jPSFarn2P5zuhtLkV188zWd8XpeyW5NurhlyRoC53MQAvD_BwE&gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJHnZP0vQYhg2BseQ3jPSFarn2P5zuhtLkV188zWd8XpeyW5NurhlyRoC53MQAvD_BwE)  
@@ -13,4 +13,4 @@ Temperature Sensor - [SHT40-AD1B-R2](https://www.digikey.com/en/products/detail/
 Barometric Pressure Sensor - [BME280](https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306)  
 ![Pressure](https://github.com/Team-310/Team-310.github.io/assets/157059404/97e0b5b0-e32a-4cbd-b10e-c8bf5a444dda)
 
-## Power Budget
+# Power Budget
