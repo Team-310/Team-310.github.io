@@ -1,5 +1,5 @@
 ## Microcontroller Selection 
-*Table 1. Microcontroller Selection Assignment*
+*Table 1. Microcontroller Design Conciderations*
 
 
 | Design Considerations | Team Project-Specific Requirements from Problem Definition and Block Diagram | PIC Option 1 | PIC Option 2 | PIC Option 3 |
@@ -13,3 +13,14 @@
 | Additional considerations specific to your project specifications (optional) | Needs to be easy to solder and not super small | -            | -            | -            |
 
 
+*Table 2. Microcontroller Considerations*
+
+| Microcontroller Considerations | PIC Option 1 | PIC Option 2 | PIC Option 3 |
+| ---------------------- | ------------ | ------------ | ------------ |
+| Part Number    | 23           | 14           | 28           |
+| Built-in Analog to Digital Converter? How many? | 14           | 11           | 24           |
+| Built-in Hardware PWM? How many?                | 8            | 2            | 2            |
+| Built-in I2C? SPI? How many?                    | 2 SPI and 2 I2C | 2 SPI and 2 I2C | 2 SPI and 2 I2C |
+| Built-in UART? How many?                        | 3            | 1            | 1            |
+| Other Required Built-In Features? (optional)    | -            | -            | -            |
+| Additional considerations specific to your project specifications (optional) | -            | -            | -            |
