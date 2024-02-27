@@ -33,7 +33,7 @@
 | Absolute Maximum Current for entire IC     | 350 mA            | 250 mA            | 250 mA            |
 | Maximum GPIO Pin Current (Source/Sink)     | ±50 mA            | ±50 mA            | ±50 mA            |
 | 8-bit or 16-bit Architecture    | 32 Bit            | 16 Bit           | 8 Bit            |
-| Available IC Packages / Footprints    | VQFN48, VQFN32, TQFP, SSOP, SOIC, SPDIP  |PDIP, SOIC (3.9 mm), SSOP, UQFN (4x4) | SPDIP, SOIC, SSOP, VQFN, QFN |
+| Available IC Packages / Footprints | <ul><li>VQFN48</li><li>VQFN32</li><li>TQFP</li><li>SSOP</li><li>SOIC</li><li>SPDIP</li></ul> | <ul><li>PDIP</li><li>SOIC (3.9 mm)</li><li>SSOP</li><li>UQFN (4x4)</li></ul> | <ul><li>SPDIP</li><li>SOIC</li><li>SSOP</li><li>VQFN</li><li>QFN</li></ul> |
 | Supports External Interrupts?    | Yes            | Yes            | Yes           |
 | In-System Programming Capability and Type    | Yes, In-System Programmable    | Yes, In-System Programmable   | Yes, In-Circuit Serial Programming     |
 | Works with MPLAB® X Integrated Development Environment (IDE)?    | Yes            | Yes            | Yes            |
@@ -52,13 +52,6 @@
 | Overall Pro's | <ul><li>Features a 32-bit architecture, offering higher computational power and efficiency for complex applications.</li><li>Wide supply voltage range (1.8-5.5V), providing flexibility in power supply design.</li></ul> | <ul><li>Lower cost compared to the other options, making it a budget-friendly choice for cost-sensitive projects.</li><li>Available in a DIP package, facilitating easy soldering and prototyping for beginners or projects with manual assembly needs.</li></ul> | <ul><li>Highest number of GPIO pins (28) and ADC inputs (24), ensuring ample connectivity for sensors and actuators.</li><li>Supports a wide range of communication protocols including 2 SPI and 2 I2C, offering versatile peripheral connectivity.</li></ul> |
 | Overall Con's | <ul><li>Limited number of ADC inputs (14) compared to project requirements, potentially restricting the number of analog sensors that can be directly connected.</li><li>Lacks a DIP package option, making it less ideal for projects requiring manual soldering or prototyping on breadboards.</li></ul> | <ul><li>Fewer GPIO pins (14) than required for projects needing extensive external connections.</li><li>Limited ADC inputs (11), restricting the direct interfacing with multiple analog sensors.</li></ul> | <ul><li>Higher cost relative to other options, which may affect budget considerations for the project.</li><li>While it offers a broad feature set, the complexity and capabilities might necessitate a steeper learning curve.</li></ul> |
 | Rankings | 2 | 3 | 1 |
-
-
-| Write overall pros, cons, and rankings for the chosen microcontrollers | AVR32DA32 | PIC16F18425          | PIC18F27Q10          |
-| ---------------------------------------------------------------------- | --------- | -------------------- | -------------------- |
-| Overall Pro's    | * Features a 32-bit architecture, offering higher computational power and efficiency for complex applications. * Wide supply voltage range (1.8-5.5V), providing flexibility in power supply design | * Lower cost compared to the other options, making it a budget-friendly choice for cost-sensitive projects. * Available in a DIP package, facilitating easy soldering and prototyping for beginners or projects with manual assembly needs. | * Highest number of GPIO pins (28) and ADC inputs (24), ensuring ample connectivity for sensors and actuators. * Supports a wide range of communication protocols including 2 SPI and 2 I2C, offering versatile peripheral connectivity. |
-| Overall Con's    | * Limited number of ADC inputs (14) compared to project requirements, potentially restricting the number of analog sensors that can be directly connected.    * Lacks a DIP package option, making it less ideal for projects requiring manual soldering or prototyping on breadboards. | * Fewer GPIO pins (14) than required for projects needing extensive external connections.      * Limited ADC inputs (11), restricting the direct interfacing with multiple analog sensors.  |  * Higher cost relative to other options, which may affect budget considerations for the project.       * While it offers a broad feature set, the complexity and capabilities might necessitate a steeper learning curve.  | 
-|Ranking's        | 2   |    3    | 1   |
 
 
 # **Final Microcontroller Choice** 
