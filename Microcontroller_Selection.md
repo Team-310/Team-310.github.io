@@ -1,6 +1,7 @@
 ## Microcontroller Selection 
 _*Table 1. Microcontroller Design Conciderations*_
 
+
 | Design Considerations | Team Project-Specific Requirements from Problem Definition and Block Diagram | PIC Option 1 | PIC Option 2 | PIC Option 3 |
 | ---------------------- | --------------------------------------------------------------------------- | ------------ | ------------ | ------------ |
 | How many GPIO Pins?    | Need at least 10 GPIO Pins                                                  | 23           | 14           | 28           |
@@ -13,6 +14,7 @@ _*Table 1. Microcontroller Design Conciderations*_
 
 
 _*Table 2. Microcontroller Considerations*_
+
 
 | Microcontroller Considerations | PIC Option 1 | PIC Option 2 | PIC Option 3 |
 | ---------------------- | ------------ | ------------ | ------------ |
@@ -33,8 +35,8 @@ _*Table 2. Microcontroller Considerations*_
 | Works with Microchip Code Configurator?    | Yes            | Yes            | Yes  |
 
 
-
 _*Table 3. Reason for Choosing Microcontrollers*_
+
 
 | Criteria | AVR32DA32 | PIC16F18425 | PIC18F27Q10 |
 |----------|-----------|-------------|-------------|
