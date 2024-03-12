@@ -12,7 +12,7 @@ title: Flora Forecast
 Preparation Date: March 12th, 2024
 
 ## Table of Contents  
-### [Introduction](Introduction.md)
+### [Introduction](Introduction.md)  
 ### [Report Links](Report Links.md)  
 ### [Team Organization](Team_Organization.md)  
 ### [User Needs, Benchmarking, and Requirements](User_Needs-Benchmarking-Requirements.md)  
