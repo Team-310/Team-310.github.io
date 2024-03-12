@@ -28,4 +28,4 @@ Our team chose the BME 280 Combined humidity and pressure sensor because it acts
 ![Power1](https://github.com/Team-310/Team-310.github.io/assets/157059404/7d63aacc-fb1e-4310-afa7-3526461bc2ff)  
 ![power2](https://github.com/Team-310/Team-310.github.io/assets/157059404/4c7aca6b-efc3-4f52-a489-4dd7ae599e5a)
 
-
+- Our power budget analysis indicates that, when operating at full capacity continuously, the product provides approximately 2 hours of runtime. However, we expect users to enjoy longer periods of use, as it's unlikely the device will be consistently running at maximum. We've also made battery replacement straightforward, and for those interested in sustainability, the product is compatible with rechargeable batteries, enhancing its eco-friendly appeal.
