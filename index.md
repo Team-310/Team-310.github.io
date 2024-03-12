@@ -11,7 +11,8 @@ title: Flora Forecast
 ### Arizona State University - EGR 314 - Professor Nichols  
 Preparation Date: March 12th, 2024
 
-## Table of Conternts  
+## Table of Contents  
+### [Report Links](Report Links.md)  
 ### [Team Organization](Team_Organization.md)  
 ### [User Needs, Benchmarking, and Requirements](User_Needs-Benchmarking-Requirements.md)  
 ### [Design Ideation](Design_Ideation.md)  
