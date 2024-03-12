@@ -11,6 +11,7 @@ Motor - [LS-00028](https://www.digikey.com/en/products/detail/osepp-electronics-
 Our team chose this motor because of its small size and voltage requirement. Since the motor will not need to move heavy parts, only light plastic pieces, it is ideal for our project. It also has a simple design, so it will be easy to implement it.
 Temperature Sensor - [SHT40-AD1B-R2](https://www.digikey.com/en/products/detail/sensirion-ag/SHT40-AD1B-R2/13532084?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_High%20ROAS%20Categories&utm_term=&utm_content=&gad_source=1&gclid=Cj0KCQiAn-2tBhDVARIsAGmStVlgmCsPiXiffpAALimTSSqcutBLZpDYa6Wp6S518a9zUxWoh48pzsYaAiZFEALw_wcB)  
 ![SHT40](https://github.com/Team-310/Team-310.github.io/assets/157059404/1d21ab33-8e5b-4e69-8b8e-2885d37dc9e4)  
+Our team decided to choose option 2, the SHT40 sensor because of its mountability and usability. This sensor can find humidity and temperature. The temperature sensor is accurate plus or minus 0.4 degrees. In addition, this sensor has multiple I2C addresses which makes it easier to integrate with other sensors. Lastly, the sensor requires no more than 3.6V which is perfect for our system considering we will be running 3.3V.  
 Barometric Pressure Sensor - [BME280](https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306)  
 ![Pressure](https://github.com/Team-310/Team-310.github.io/assets/157059404/97e0b5b0-e32a-4cbd-b10e-c8bf5a444dda)
 
