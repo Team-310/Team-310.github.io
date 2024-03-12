@@ -8,7 +8,7 @@ Motor Driver - [IFX9201SGAUMA1](https://www.digikey.com/en/products/detail/infin
 ![Motor Driver](https://github.com/Team-310/Team-310.github.io/assets/157059404/cb1a1a7b-cff0-4249-b2a7-967dc4a40287)  
 Motor - [LS-00028](https://www.digikey.com/en/products/detail/osepp-electronics-ltd/LS-00028/11198652)  
 ![Motor](https://github.com/Team-310/Team-310.github.io/assets/157059404/938f106a-640f-4d7f-b0f9-9414d8ad850c)  
-Our team decided to choose Option 2 because of its small size and voltage requirement. Since the motor will not need to move heavy parts, only light plastic pieces, it is ideal for our project. It also has a simple design, so it will be easy to implement it.
+Our team chose this motor because of its small size and voltage requirement. Since the motor will not need to move heavy parts, only light plastic pieces, it is ideal for our project. It also has a simple design, so it will be easy to implement it.
 Temperature Sensor - [SHT40-AD1B-R2](https://www.digikey.com/en/products/detail/sensirion-ag/SHT40-AD1B-R2/13532084?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_High%20ROAS%20Categories&utm_term=&utm_content=&gad_source=1&gclid=Cj0KCQiAn-2tBhDVARIsAGmStVlgmCsPiXiffpAALimTSSqcutBLZpDYa6Wp6S518a9zUxWoh48pzsYaAiZFEALw_wcB)  
 ![SHT40](https://github.com/Team-310/Team-310.github.io/assets/157059404/1d21ab33-8e5b-4e69-8b8e-2885d37dc9e4)  
 Barometric Pressure Sensor - [BME280](https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306)  
