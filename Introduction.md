@@ -1,5 +1,5 @@
 ## Introduction
-Greetings! We are Team 310, a group united by our passion for seamlessly blending technology with aesthetics. Our latest project the Flora Forecast is the perfect fusion of functionality and design, introducing a smart device that not only serves a technical purpose but also adds an interactive and aesthetic touch to your living space.  
+We are Team 310, a group united by our passion for seamlessly blending technology with aesthetics. Our latest project the Flora Forecast is the perfect fusion of functionality and design, introducing a smart device that not only serves a technical purpose but also adds an interactive and aesthetic touch to your living space.  
 
 Inspired by a potted plant, our device seamlessly integrates into any home or environment. The spinning flower head, a unique and captivating feature, adds an engaging touch without being intrusive. Our design prioritizes both aesthetics and functionality, meeting the highest user needs and offering a harmonious blend of technology and nature.  
 
