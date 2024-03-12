@@ -10,6 +10,7 @@ Our team ultimately chose the LM2575D2T-3 as our 3.3V switching voltage regulato
 
 Motor Driver - [IFX9201SGAUMA1](https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542)  
 ![Motor Driver](https://github.com/Team-310/Team-310.github.io/assets/157059404/cb1a1a7b-cff0-4249-b2a7-967dc4a40287)  
+Our team chose this 9V battery to power the Flora Forecast because they are readily available. The user can easily replace the battery too. The 9V battery supplies enough power for up to 2 hours of constant use of our device.  
 
 Motor - [LS-00028](https://www.digikey.com/en/products/detail/osepp-electronics-ltd/LS-00028/11198652)  
 ![Motor](https://github.com/Team-310/Team-310.github.io/assets/157059404/938f106a-640f-4d7f-b0f9-9414d8ad850c)  
