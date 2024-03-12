@@ -44,6 +44,8 @@
 *Figure 7. Design Concepts Categorized into 3 Categories*
 ![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/f362140b-ba65-4762-80d7-e9a5df01ef8f)  
 
+## [Bill of Materials](https://docs.google.com/spreadsheets/d/1FA7_zZz8KkpmYs1YQsXKBv4hid6KEE90/edit?usp=sharing&ouid=106828450620415480012&rtpof=true&sd=true)  
+![BOM](https://github.com/Team-310/Team-310.github.io/assets/157059404/319b0432-979a-4232-be70-d8406ffab253)
 
 
 
