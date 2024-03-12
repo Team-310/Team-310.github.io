@@ -1,6 +1,6 @@
 # Block Diagram
 
-![image](https://github.com/Team-310/Team-310.github.io/files/14566233/block.pdf)
+![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/bb6c6d62-de24-46da-ba08-8840d45402f9)
 
 ## **Sensors (Pressure and Temperature)**
 * **Subsystem Responsibility:** These sensors are responsible for gathering environmental data and sending the data to the Microcontroller. The BME280 is the sensor for the atmospheric pressure, and the temperature sensor is the SHT40-AD1B-R2
