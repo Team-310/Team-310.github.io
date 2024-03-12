@@ -9,12 +9,12 @@ title: Flora Forecast
 -🌻Elliott Gillespie🌻  
 
 ### Arizona State University - EGR 314 - Professor Nichols  
-Preparation Date: January 26th, 2024
+Preparation Date: March 12th, 2024
 
 ## [Selected Design](Selected_Design.md)
 ![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/6789b586-0136-4b2d-ab94-c68fa8e1bc55)
 
-## Report Links  
+## Table of Conternts  
 ### [Team Organization](Team_Organization.md)  
 ### [User Needs, Benchmarking, and Requirements](User_Needs-Benchmarking-Requirements.md)  
 ### [Design Ideation](Design_Ideation.md)  
