@@ -18,7 +18,7 @@ Our team chose this motor because of its small size and voltage requirement. Sin
 ## Temperature Sensor - [TC74A4](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268)  
 ![TC74](https://github.com/Team-310/Team-310.github.io/assets/157059404/12b20c2e-b266-4cdb-aebd-e14246c67a48)
   
-Our team chose the SHT40 sensor because of its mountability and usability. This sensor can find humidity and temperature. The temperature sensor is accurate plus or minus 0.4 degrees. In addition, this sensor has multiple I2C addresses which makes it easier to integrate with other sensors. Lastly, the sensor requires no more than 3.6V which is perfect for our system considering we will be running 3.3V.  
+Julia update  
 
 ## Barometric Pressure Sensor - [BME280](https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306)  
 ![Pressure](https://github.com/Team-310/Team-310.github.io/assets/157059404/97e0b5b0-e32a-4cbd-b10e-c8bf5a444dda)  
