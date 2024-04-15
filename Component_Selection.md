@@ -15,8 +15,9 @@ Our team chose this 9V battery to power the Flora Forecast because they are read
 ![Motor](https://github.com/Team-310/Team-310.github.io/assets/157059404/938f106a-640f-4d7f-b0f9-9414d8ad850c)  
 Our team chose this motor because of its small size and voltage requirement. Since the motor will not need to move heavy parts, only light plastic pieces, it is ideal for our project. It also has a simple design, so it will be easy to implement it.
 
-## Temperature Sensor - [TC74A4](![TC74](https://github.com/Team-310/Team-310.github.io/assets/157059404/c16c4688-a009-4e86-9807-c1a456fb2b1f))  
-![SHT40](https://github.com/Team-310/Team-310.github.io/assets/157059404/1d21ab33-8e5b-4e69-8b8e-2885d37dc9e4)  
+## Temperature Sensor - [TC74A4](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268)  
+![TC74](https://github.com/Team-310/Team-310.github.io/assets/157059404/12b20c2e-b266-4cdb-aebd-e14246c67a48)
+  
 Our team chose the SHT40 sensor because of its mountability and usability. This sensor can find humidity and temperature. The temperature sensor is accurate plus or minus 0.4 degrees. In addition, this sensor has multiple I2C addresses which makes it easier to integrate with other sensors. Lastly, the sensor requires no more than 3.6V which is perfect for our system considering we will be running 3.3V.  
 
 ## Barometric Pressure Sensor - [BME280](https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306)  
