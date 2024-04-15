@@ -8,5 +8,5 @@
 ### [Microcontroller Selection](Microcontroller_Selection.md)  
 ### [Hardware Implementation](Hardware_Implementation.md)  
 ### [Software Implementation](Software_Implementation.md) 
-### [System Verification](System_Verification.md)
+### [System Verification](System_Verification.md)  
 ### [Lessons Learned & Recommendations](Lessons_Learned & Recommendations.md)
