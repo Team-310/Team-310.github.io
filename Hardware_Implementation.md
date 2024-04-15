@@ -10,5 +10,8 @@ Team 310 chose this circuit design because it was the cleanest version that coul
 ![Front_PCB](https://github.com/Team-310/Team-310.github.io/assets/157059404/1a353fbe-5c22-4cc2-ad1c-f270f0cff043)  
 ### Back  
 ![BACK_Pcb](https://github.com/Team-310/Team-310.github.io/assets/157059404/0d64bbe5-73be-490c-8d57-07318451bece)  
-
+### Front
+![PCB_FRONT](https://github.com/Team-310/Team-310.github.io/assets/157059404/9374cf41-cafe-455a-8965-1a99d46e6b49)  
+### Back  
+![PCB_BACK](https://github.com/Team-310/Team-310.github.io/assets/157059404/f2522715-a8d4-4d52-9edf-f5b7bf4d4498)  
 
