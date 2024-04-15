@@ -9,4 +9,4 @@
 ### [Hardware Implementation](Hardware_Implementation.md)  
 ### [Software Implementation](Software_Implementation.md) 
 ### [System Verification](System_Verification.md)  
-### [Lessons Learned & Recommendations](Lessons_Learned & Recommendations.md)
+### [Lessons Learned & Recommendations](Lessons_Learned & Recommendations.md)  
