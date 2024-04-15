@@ -7,4 +7,4 @@
 ### [Component Selection](Component_Selection.md)  
 ### [Microcontroller Selection](Microcontroller_Selection.md)  
 ### [Hardware Implementation](Hardware_Implementation.md)  
-### [Software Proposal](Software_Proposal.md) 
+### [Software Implementation](Software_Implementation.md) 
