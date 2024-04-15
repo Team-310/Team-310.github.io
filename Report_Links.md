@@ -6,5 +6,5 @@
 ### [Block Diagram](Block_Diagram.md)  
 ### [Component Selection](Component_Selection.md)  
 ### [Microcontroller Selection](Microcontroller_Selection.md)  
-### [Hardware Proposal](Hardware_Proposal.md)  
+### [Hardware Implementation](Hardware_Implementation.md)  
 ### [Software Proposal](Software_Proposal.md) 
