@@ -13,6 +13,5 @@ This constant interchange is captured in our charter, which establishes the need
 ## Misson Statement  
 Crafting our mission statement was an exercise in distilling our project's essence into a clear and compelling narrative. 
 
-**At Flora Forecast, we are dedicated to blending functionality with beauty in our innovative weather station, inspired by the elegance of nature. Our mission is to provide accurate and visually captivating weather data through our flower-shaped design, seamlessly integrating technology and aesthetics to enhance everyday experiences.
-**
+At Flora Forecast, we are dedicated to blending functionality with beauty in our innovative weather station, inspired by the elegance of nature. Our mission is to provide accurate and visually captivating weather data through our flower-shaped design, seamlessly integrating technology and aesthetics to enhance everyday experiences.
 
