@@ -47,5 +47,13 @@
 ## [Bill of Materials](https://docs.google.com/spreadsheets/d/1FA7_zZz8KkpmYs1YQsXKBv4hid6KEE90/edit?usp=sharing&ouid=106828450620415480012&rtpof=true&sd=true)  
 ![BOM](https://github.com/Team-310/Team-310.github.io/assets/157059404/319b0432-979a-4232-be70-d8406ffab253)
 
+## Motor - [LS-00028](https://www.digikey.com/en/products/detail/osepp-electronics-ltd/LS-00028/11198652)  
+![Motor](https://github.com/Team-310/Team-310.github.io/assets/157059404/938f106a-640f-4d7f-b0f9-9414d8ad850c)  
+Our team chose this motor because of its small size and voltage requirement. Since the motor will not need to move heavy parts, only light plastic pieces, it is ideal for our project. It also has a simple design, so it will be easy to implement it.
+
+## Power Supply - 9V Battery  
+![Battery](https://github.com/Team-310/Team-310.github.io/assets/157059404/c82bdb55-c936-455e-97de-ff75d56ad892)  
+Our team chose this 9V battery to power the Flora Forecast because they are readily available. The user can easily replace the battery too. The 9V battery supplies enough power for up to 2 hours of constant use of our device.  
+
 
 
