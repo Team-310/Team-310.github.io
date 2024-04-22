@@ -3,9 +3,8 @@
 *Figure 1. First rending of Flora Forecast Product*
 ![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/6789b586-0136-4b2d-ab94-c68fa8e1bc55)
 
-*Figure . Final rending of Flora Forecast Product*
 ![HUMIDITY SENSOR POT ISO (1)](https://github.com/Team-310/Team-310.github.io/assets/157059404/cbdd2770-f949-4c01-91c7-1b857150aecf)
-
+*Figure . Final rending of Flora Forecast Product*
 
 ## **Motor**
 * Located in the flower head, the motor is designed to spin the flower when the user sends a request to the ESP-32 for data. The spinning flower shows the user that the system is actively reading data. For user needs it provides a visual indicator of operation and adds an interactive element to our product.
