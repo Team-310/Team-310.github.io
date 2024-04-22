@@ -4,7 +4,7 @@
 
 
 ## **Sensors (Pressure and Temperature)**
-* **Subsystem Responsibility:** These sensors are responsible for gathering environmental data and sending the data to the Microcontroller. The BME280 is the sensor for the atmospheric pressure, and the temperature sensor is the SHT40-AD1B-R2
+* **Subsystem Responsibility:** These sensors are responsible for gathering environmental data and sending the data to the Microcontroller. The BME280 is the sensor for the atmospheric pressure, and the temperature sensor is the TC74A4.
 * **Contribution to the project:** These sensors provide the raw data necessary to monitor environmental conditions. The data collected will be used to inform users of weather conditions near them when they our Mobile Weather Station App.
 
 ## **Microcontroller**
