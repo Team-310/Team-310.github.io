@@ -11,7 +11,7 @@ Our team chose this 9V battery to power the Flora Forecast because they are read
 ## Temperature Sensor - [TC74A4](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268)  
 ![TC74](https://github.com/Team-310/Team-310.github.io/assets/157059404/12b20c2e-b266-4cdb-aebd-e14246c67a48)
   
-Julia update  
+Our team chose the TC74A4 temperature sensor because of its solderability and reliability. This sensor comes in at $1.15 which is very affordable which aligns with our budget. The sensors' supply voltage is 2.7V to 5.5V which also works for our design since we will be supplying our circuit with 3.3V as required. This sensor's margin of error is 2 degrees Celcius between 25 degrees Celcius and 85 degrees Celcius. With all of these features in mind, this makes the TC74A4 the right sensor for our project.
 
 ## Barometric Pressure Sensor - [BME280](https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306)  
 ![Pressure](https://github.com/Team-310/Team-310.github.io/assets/157059404/97e0b5b0-e32a-4cbd-b10e-c8bf5a444dda)  
