@@ -11,7 +11,8 @@ title: Flora Forecast
 ## Table of Contents  
 ### [Introduction](Introduction.md)  
 ### [Team Organization](Team_Organization.md)  
-### [User Needs, Benchmarking, and Requirements](User_Needs-Benchmarking-Requirements.md)  
+### [User Needs and Benchmarking](User_Needs-Benchmarking-Requirements.md)  
+### [Product Requirements](Product_Requirements.md) 
 ### [Design Ideation](Design_Ideation.md)  
 ### [Selected Design](Selected_Design.md)  
 ### [Block Diagram](Block_Diagram.md)  
