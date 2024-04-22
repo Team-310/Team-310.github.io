@@ -1,5 +1,4 @@
-# User Needs, Benchmarking, and Requirements  
-## Summary  
+# User Needs, Benchmarking, and Requirements   
  
 Team 310 initiated the user needs identification phase by conducting a comprehensive review of numerous existing products. From this pool, the team selected five distinctive weather station-related products for research purposes. thoroughly read reviews from their selected product, ensuring a thorough examination of both positive and negative feedback. Through this review process, recurring user needs were identified and categorized as either latent or explicit.  
 
