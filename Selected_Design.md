@@ -16,5 +16,7 @@
 * The essential components are all concealed within the pot which provides waterproofing and keeps the main components accessible while maintaining being hidden. Both the ESP-32 and Microcontrollers will be attached to the PCB with the wires being hidden in the stems connecting to the other components' PCB.
 
 ## **Design Aesthetic**
-* The overall design mimics a potted plant, this can blend into any home or environment while serving a technical purpose. The spinning flower head is a unique feature that engages users and provides a non intrusive way to indicate our product is working correctly. All of these aspects were ranked the highest in our user needs.
+* The overall design mimics a potted plant, this can blend into any home or environment while serving a technical purpose. The spinning flower head is a unique feature that engages users and provides a non-intrusive way to indicate our product is working correctly. All of these aspects were ranked the highest in our user needs.
   
+## **Selected Design Summary**
+After discussing the user needs and benchmarking. Our team weighed the pros and cons of each of the three initial designs we developed. We then came to the conclusion that the Flora Forecast was the design we wanted to move forward with. This design contains all of the necessary features a temperature sensor, pressure and humidity sensor, and a motor. In addition, the team liked the appearance of the Flora Forecast the most therefore we believe it to be the best. Flora Forecast contains the perfect balance of appearance, safety, functionality, and usability. 
