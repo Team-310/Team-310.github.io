@@ -1,7 +1,4 @@
 # [Component Selection](https://docs.google.com/document/d/1LcmL5Pp_lv0PSCJ3DXv-DvtYZl9i9sau2eAefg3Dcjk/edit?usp=sharing)   
-## Power Supply - 9V Battery  
-![Battery](https://github.com/Team-310/Team-310.github.io/assets/157059404/c82bdb55-c936-455e-97de-ff75d56ad892)  
-Our team chose this 9V battery to power the Flora Forecast because they are readily available. The user can easily replace the battery too. The 9V battery supplies enough power for up to 2 hours of constant use of our device.  
 
 ## Voltage Regulator - [LM2575D2T-3.3R4G](https://www.digikey.com/en/products/detail/onsemi/LM2575D2T-3.3R4G/5801702?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Medium%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20223376311_adg-_ad-__dev-c_ext-_prd-5801702_sig-CjwKCAiAibeuBhAAEiwAiXBoJHnZP0vQYhg2BseQ3jPSFarn2P5zuhtLkV188zWd8XpeyW5NurhlyRoC53MQAvD_BwE&gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJHnZP0vQYhg2BseQ3jPSFarn2P5zuhtLkV188zWd8XpeyW5NurhlyRoC53MQAvD_BwE)  
 ![Voltage Regulator](https://github.com/Team-310/Team-310.github.io/assets/157059404/b8292bf4-7cca-41b0-9c0f-20a72e7351fd)  
@@ -10,10 +7,6 @@ Our team ultimately chose the LM2575D2T-3 as our 3.3V switching voltage regulato
 ## Motor Driver - [IFX9201SGAUMA1](https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542)  
 ![Motor Driver](https://github.com/Team-310/Team-310.github.io/assets/157059404/cb1a1a7b-cff0-4249-b2a7-967dc4a40287)  
 Our team chose this 9V battery to power the Flora Forecast because they are readily available. The user can easily replace the battery too. The 9V battery supplies enough power for up to 2 hours of constant use of our device.  
-
-## Motor - [LS-00028](https://www.digikey.com/en/products/detail/osepp-electronics-ltd/LS-00028/11198652)  
-![Motor](https://github.com/Team-310/Team-310.github.io/assets/157059404/938f106a-640f-4d7f-b0f9-9414d8ad850c)  
-Our team chose this motor because of its small size and voltage requirement. Since the motor will not need to move heavy parts, only light plastic pieces, it is ideal for our project. It also has a simple design, so it will be easy to implement it.
 
 ## Temperature Sensor - [TC74A4](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268)  
 ![TC74](https://github.com/Team-310/Team-310.github.io/assets/157059404/12b20c2e-b266-4cdb-aebd-e14246c67a48)
