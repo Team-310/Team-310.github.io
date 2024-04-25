@@ -36,7 +36,7 @@
 
 *Figure 5. Ranked User Needs in Catgories from 3 to 1 stars*
 ![un 3](https://github.com/Team-310/Team-310.github.io/assets/157058267/eb51f35f-d932-493a-a5b3-9a8a66454e85)
-)
+
 
 *Figure 6. User Needs in an Ordered List*
 ![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/863c03bc-a4cf-4b98-9eb3-f19aaac9729b)  
