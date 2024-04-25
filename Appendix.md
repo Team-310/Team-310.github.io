@@ -34,14 +34,18 @@
 *Figure 4. Ranked User Needs in Categories*
 ![un 3](https://github.com/Team-310/Team-310.github.io/assets/157058267/5367b766-9f8a-4106-9bfb-5b95a280518d)  
 
-*Figure 5. User Needs in an Ordered List*
+*Figure 5. Ranked User Needs in Catgories from 3 to 1 stars*
+![un 3](![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/5853f927-8594-4e49-b710-4424f327e4d3)
+)
+
+*Figure 6. User Needs in an Ordered List*
 ![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/863c03bc-a4cf-4b98-9eb3-f19aaac9729b)  
 
 
 ### Design Ideation
-*Figure 6. Brainstorming Ideas on Jamboard*
+*Figure 7. Brainstorming Ideas on Jamboard*
 ![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/3acb941f-1801-4a76-9f12-065ac1d75c18)  
-*Figure 7. Design Concepts Categorized into 3 Categories*
+*Figure 8. Design Concepts Categorized into 3 Categories*
 ![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/f362140b-ba65-4762-80d7-e9a5df01ef8f)  
 
 ## [Bill of Materials](https://docs.google.com/spreadsheets/d/1FA7_zZz8KkpmYs1YQsXKBv4hid6KEE90/edit?usp=sharing&ouid=106828450620415480012&rtpof=true&sd=true)  
