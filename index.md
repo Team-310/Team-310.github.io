@@ -54,21 +54,27 @@ title: Flora Forecast
 ![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/2f74cba6-a90e-4d2d-b1cb-1f53f4900ed7)
 
 *Figure 10. MCC Configuration Pin-Out*
+
 <img width="946" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/3b848997-cb70-4b8c-9b33-3c823dd8d3c9">
 
 *Figure 11. MCC Configuration ESUART2*
+
 <img width="428" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/12c0e922-4bf9-47a0-937f-61a7483d6fc9">
 
 *Figure 12. MCC Configuration MSSP1*
+
 <img width="442" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/53f86935-41dc-457d-9737-ef89d4f4a04f">
 
 *Figure 13. MCC Configuration MSSP2*
+
 <img width="446" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/489744d5-5f60-48a8-8dd3-54777dab13f9">
 
 *Figure 14. MCC Configuration TMR2*
+
 <img width="405" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/ebcaae43-fcd0-4646-afd2-e707fc111393">
 
 *Figure 15. MCC Configuration Interrupt Module*
+
 <img width="343" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/6ca37d53-3179-4cc2-97ab-32fbbb392805">
 
 [![Presentation](https://github.com/Team-310/Team-310.github.io/assets/157059404/2e11aca0-808b-410a-80c5-11d1bce22244)](https://www.youtube.com/watch?v=Oss-YJy1qss&ab_channel=JuliaP)
