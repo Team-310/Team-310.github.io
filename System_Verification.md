@@ -1,4 +1,4 @@
 *Figure 9. Teaching Team's Final Verification Table*
 ![un 3](https://github.com/Team-310/Team-310.github.io/assets/157058267/c7d42c70-2ca9-4e6d-9d80-32d0a39e5a08)
 
-The team managed to verify every connection within the final system, including communication between the microcontroller and the ESP32 to Wi-Fi.
+The team managed to verify every connection within the final system, including communication between the microcontroller and the ESP32 to Wi-Fi. The voltage regulator was checked off by using the multimeter to prove 9V and 3.3V to their corresponding systems. The analog sensors were checked off by showing an LED changing state based on the temperature or humidity passing a certain threshold. The motor was checked off by showing it change direction and all of these subsystems working proved that I2C and SPI were used to program the system. The ESP32 was checked off by displaying our sensors' data sent by the microcontroller using USART onto the website hosted by the ESP32.
