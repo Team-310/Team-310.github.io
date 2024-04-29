@@ -50,6 +50,7 @@ title: Flora Forecast
 ![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/f362140b-ba65-4762-80d7-e9a5df01ef8f) 
 
 *Figure 9. ESP32 Website Data*
+
 ![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/2f74cba6-a90e-4d2d-b1cb-1f53f4900ed7)
 
 *Figure 10. MCC Configuration Pin-Out*
