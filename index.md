@@ -25,7 +25,32 @@ title: Flora Forecast
 ### [Appendix](Appendix.md)
 
 ## Table of Figures 
-  
+*Figure 1. Meeting Schedule*
+![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/49d06e23-cd85-4ca5-8800-20339e80db1b)
+
+*Figure 2. User Needs on Jamboard (Unorganized, Unranked, Uncombined)*  
+![user needs yellow](https://github.com/Team-310/Team-310.github.io/assets/157058267/156edaf9-3b0e-4e22-851b-7c7b9b0d2921)
+
+*Figure 3. Categorized User Needs*
+![user needs 2](https://github.com/Team-310/Team-310.github.io/assets/157058267/7391d182-8a62-4562-b35b-8d20787b10ee)
+
+*Figure 4. Ranked User Needs in Categories*
+![un 3](https://github.com/Team-310/Team-310.github.io/assets/157058267/5367b766-9f8a-4106-9bfb-5b95a280518d)
+
+*Figure 5. Ranked User Needs in Catgories from 3 to 1 stars*
+![un 3](https://github.com/Team-310/Team-310.github.io/assets/157058267/eb51f35f-d932-493a-a5b3-9a8a66454e85)
+
+*Figure 6. User Needs in an Ordered List*
+![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/863c03bc-a4cf-4b98-9eb3-f19aaac9729b)
+
+*Figure 7. Brainstorming Ideas on Jamboard*
+![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/3acb941f-1801-4a76-9f12-065ac1d75c18)  
+
+*Figure 8. Design Concepts Categorized into 3 Categories*
+![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/f362140b-ba65-4762-80d7-e9a5df01ef8f) 
+
+*Figure 9. ESP32 Website Data*
+<img width="212" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/2f74cba6-a90e-4d2d-b1cb-1f53f4900ed7">
 
 [![Presentation](https://github.com/Team-310/Team-310.github.io/assets/157059404/2e11aca0-808b-410a-80c5-11d1bce22244)](https://www.youtube.com/watch?v=Oss-YJy1qss&ab_channel=JuliaP)
 
