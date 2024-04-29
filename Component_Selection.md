@@ -6,7 +6,7 @@ Our team ultimately chose the LM2575D2T-3 as our 3.3V switching voltage regulato
 
 ## Motor Driver - [IFX9201SGAUMA1](https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542)  
 ![Motor Driver](https://github.com/Team-310/Team-310.github.io/assets/157059404/cb1a1a7b-cff0-4249-b2a7-967dc4a40287)  
-Our team chose this 9V battery to power the Flora Forecast because they are readily available. The user can easily replace the battery too. The 9V battery supplies enough power for up to 2 hours of constant use of our device.  
+Our team chose this motor driver because of its features. This driver can be powered with 3.3V which is a requirement for our product. In addition, it has low standby current and chopper current limitations. This driver also communicates with the microcontroller using SPI or PWM which is ideal. Although this driver isn't the cheapest of the motor drivers available our team finds that the pros outweigh the price and are willing to make space in the budget for this motor driver.
 
 ## Temperature Sensor - [TC74A4](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268)  
 ![TC74](https://github.com/Team-310/Team-310.github.io/assets/157059404/12b20c2e-b266-4cdb-aebd-e14246c67a48)
