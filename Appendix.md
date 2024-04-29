@@ -61,9 +61,11 @@ Our team chose this 9V battery to power the Flora Forecast because they are read
 
 ## Webserver Screen Shot from Innovation Show Case ##
 *Figure 9. ESP32 Website Data*
-[FinalESP32WebsiteData.pdf](https://github.com/Team-310/Team-310.github.io/files/15151820/FinalESP32WebsiteData.pdf)
+<img width="212" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/2f74cba6-a90e-4d2d-b1cb-1f53f4900ed7">
 
 ## ESP32 Code ##
+
+```cpp
 #include <WiFi.h>
 #include <AsyncTCP.h>
 #include <ESPAsyncWebServer.h>
@@ -92,6 +94,7 @@ void parseData(String data) {
     Serial.print("Parsed Humidity: "); Serial.println(humidity);
     Serial.print("Parsed Pressure: "); Serial.println(pressure);
 }
+
 const char* index_html = 
 "<!DOCTYPE HTML><html>\n"
 "<head>\n"
@@ -200,6 +203,8 @@ void loop() {
     parseData(data);
   }
 }
+```
+
 
 ## MCC Configuration Screen Shots ##
 *Figure 10. MCC Configuration Pin-Out*
@@ -221,6 +226,8 @@ void loop() {
 <img width="343" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/6ca37d53-3179-4cc2-97ab-32fbbb392805">
 
 ## MPLAB X Main Code ##
+
+```c
 #include "mcc_generated_files/mcc.h"
 #include "mcc_generated_files/i2c2_master.h"
 #include "mcc_generated_files/examples/i2c2_master_example.h"
@@ -298,8 +305,12 @@ void main(void)
         EUSART2_Write('\n'); // Send newline for better readability at the receiver end
     }
 }
+```
+
 
 ## MPLAB X BME280 Source File ##
+
+```c
 #include "bme280.h"
 #include "mcc_generated_files/examples/i2c2_master_example.h"
 #include <math.h>
@@ -336,7 +347,6 @@ void BME280_readFactoryCalibrationParams(void) {
     calibParam.dig_P7 = (((int) paramBuff[19]) << 8) + paramBuff[18];
     calibParam.dig_P8 = (((int) paramBuff[21]) << 8) + paramBuff[20];
     calibParam.dig_P9 = (((int) paramBuff[23]) << 8) + paramBuff[22];
-
     calibParam.dig_H1 = (uint8_t) I2C2_Read1ByteRegister(BME280_ADDR, BME280_CALIB_DH1_REG);
 
     I2C2_ReadDataBlock(BME280_ADDR, BME280_CALIB_DH2_LSB_REG, paramBuff, 7);
@@ -419,10 +429,6 @@ float BME280_getHumidity(void) {
     return humidity;
 }
 
-/* 
- * Returns temperature in DegC, resolution is 0.01 DegC. 
- * Output value of "5123" equals 51.23 DegC.  
- */
 static uint32_t BME280_compensateTemperature(void) {
     long long tempV1, tempV2, t;
 
@@ -434,11 +440,7 @@ static uint32_t BME280_compensateTemperature(void) {
     return t;
 }
 
-/* 
- * Returns pressure in Pa as unsigned 32 bit integer. 
- * Output value of "96386" equals 96386 Pa = 96.386 kPa 
- */
- static uint32_t BME280_compensatePressure(void) {
+static uint32_t BME280_compensatePressure(void) {
     long pressV1, pressV2;
     uint32_t p;
 
@@ -451,8 +453,7 @@ static uint32_t BME280_compensateTemperature(void) {
     pressV1 = ((((32768 + pressV1))*((long) calibParam.dig_P1)) >> 15);
 
     if (pressV1 == 0) {
-        // avoid exception caused by division by zero
-        return 0;
+        return 0; // avoid exception caused by division by zero
     }
 
     p = (((uint32_t) (((long) 1048576) - adc_P)-(pressV2 >> 12)))*3125;
@@ -469,25 +470,25 @@ static uint32_t BME280_compensateTemperature(void) {
     return p;
 }
 
-static uint32_t BME280_compensateHumidity(void) {//static
+static uint32_t BME280_compensateHumidity(void) {
     long humV;
     uint32_t h;
 
     humV = (t_fine - ((long) 76800));
-    humV = (((((adc_H << 14) - (((long) calibParam.dig_H4) << 20) - (((long) calibParam.dig_H5) * humV)) +
-            ((long) 16384)) >> 15) * (((((((humV * ((long) calibParam.dig_H6)) >> 10) *
-            (((humV * ((long) calibParam.dig_H3)) >> 11) + ((long) 32768))) >> 10) +
-            ((long) 2097152)) * ((long) calibParam.dig_H2) + 8192) >> 14));
+    humV = (((((adc_H << 14) - (((long) calibParam.dig_H4) << 20) - (((long) calibParam.dig_H5) * humV)) + ((long) 16384)) >> 15) * (((((((humV * ((long) calibParam.dig_H6)) >> 10) * (((humV * ((long) calibParam.dig_H3)) >> 11) + ((long) 32768))) >> 10) + ((long) 2097152)) * ((long) calibParam.dig_H2) + 8192) >> 14));
     humV = (humV - (((((humV >> 15) * (humV >> 15)) >> 7) * ((long) calibParam.dig_H1)) >> 4));
     humV = (humV < 0 ? 0 : humV);
     humV = (humV > 419430400 ? 419430400 : humV);
-
     h = (uint32_t) (humV >> 12);
+
     return h;
 }
+```
+
 
 ## MPLAB X Application Source Code ##
 
+```c
 #include "application.h"
 
 /**
@@ -504,6 +505,7 @@ static uint32_t BME280_compensateHumidity(void) {//static
 bool weather_initialized = 0;
 
 bool label_initial = false;
+
 /**
   Section: Driver APIs
  */
@@ -514,7 +516,6 @@ void WeatherClick_readSensors(void) {
     }
     BME280_readMeasurements();
 }
-
 
 void WeatherStation_initialize(void) {
     BME280_reset();
@@ -528,7 +529,10 @@ void WeatherStation_initialize(void) {
 }
 
 void WeatherStation_Print(void) {
-    
+    float temp_string, press_string;
+    uint8_t humid_string;
+    char str_temp[16], str_press[16], str_hum[16];
+
     WeatherClick_readSensors();
 
     temp_string = BME280_getTemperature();
@@ -536,14 +540,15 @@ void WeatherStation_Print(void) {
     humid_string = (uint8_t) BME280_getHumidity();
     
     sprintf(str_temp, "      %.1fC", temp_string); // Temperature to String Conversion;
-    sprintf(str_press, "       %u hPa", press_string); // Pressure to String Conversion;
+    sprintf(str_press, "       %u hPa", (unsigned int) press_string); // Pressure to String Conversion;
     sprintf(str_hum, "          %u%%", humid_string); // Humidity to String Conversion;
     
 
-    printf("\n Temperature: %.1fC \r\n", temp_string);
-    printf("\n Pressure: %u hPa\r\n", press_string);
-    printf("\n Relative Humidity: %u%% \r\n", humid_string);
-   
- }
+    printf("\nTemperature: %.1fC\r\n", temp_string);
+    printf("Pressure: %u hPa\r\n", (unsigned int) press_string);
+    printf("Relative Humidity: %u%%\r\n", humid_string);
+}
+```
+
 
 
