@@ -21,7 +21,8 @@ Our team chose the BME 280 Combined humidity and pressure sensor because it acts
 In selecting components for our weather station, we prioritized efficiency, compatibility, and cost-effectiveness. For voltage regulation, we chose the LM2575D2T-3 for its precise 3.3V output and high efficiency, despite a slightly higher cost. Our motor driver selection prioritized 3.3V compatibility, low standby current, and flexible communication options. The TC74A4 temperature sensor met our needs for reliability, affordability, and voltage compatibility. For humidity and pressure sensing, the BME280 Combined sensor stood out for its detailed datasheet, accuracy across extreme temperatures, and suitability for our power requirements. Each component was chosen to ensure seamless integration, reliability, and adherence to project specifications while staying within budget constraints.
 
 # [Power Budget](https://docs.google.com/spreadsheets/d/1HANT8wJLup0bfyjqzk9ScGWXk3m4afTw/edit?usp=sharing&ouid=106828450620415480012&rtpof=true&sd=true)
-![Power1](https://github.com/Team-310/Team-310.github.io/assets/157059404/7d63aacc-fb1e-4310-afa7-3526461bc2ff)  
-![power2](https://github.com/Team-310/Team-310.github.io/assets/157059404/4c7aca6b-efc3-4f52-a489-4dd7ae599e5a)
+![pwB2](https://github.com/Team-310/Team-310.github.io/assets/157059404/e7b2cdd0-066c-4160-93b0-c0a0ce020b74)  
+![PWB2-2](https://github.com/Team-310/Team-310.github.io/assets/157059404/65f1692a-b007-4376-8fc9-98f33cd8cfb3)  
+
 
 - Our power budget analysis indicates that, when operating at full capacity continuously, the product provides approximately 2 hours of runtime. However, we expect users to enjoy longer periods of use, as it's unlikely the device will be consistently running at maximum. We've also made battery replacement straightforward, and for those interested in sustainability, the product is compatible with rechargeable batteries, enhancing its eco-friendly appeal.
