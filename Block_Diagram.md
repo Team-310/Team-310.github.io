@@ -1,6 +1,6 @@
 # Block Diagram
 
-![Block_Diagram](https://github.com/Team-310/Team-310.github.io/assets/157059404/93019a4f-4592-4f84-b1ef-a07600749eaa)
+![Block Diagram](https://github.com/Team-310/Team-310.github.io/assets/157059404/249843b9-8fa6-42bb-ae13-130f30f88cb2)
 
 
 ## **Sensors (Pressure and Temperature)**
