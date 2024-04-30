@@ -24,8 +24,7 @@ title: Flora Forecast
 ### [Lessons Learned & Recommendations](Lessons_Learned_&_Recommendations.md)  
 ### [Appendix](Appendix.md)
 
-## Table of Figures 
-[*Figure 1. Meeting Schedule*](figure1.md)  
+## Table of Figures  
 [*Figure 1. Meeting Schedule*](figure1.md)  
 [*Figure 2. User Needs on Jamboard (Unorganized, Unranked, Uncombined)*  ](figure2.md)  
 [*Figure 3. Categorized User Needs*](figure3.md)  
