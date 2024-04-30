@@ -48,9 +48,9 @@ title: Flora Forecast
 [*Figure 8. Design Concepts Categorized into 3 Categories*](figure8.md)
  
 
-*Figure 9. ESP32 Website Data*
+[*Figure 9. ESP32 Website Data*](figure9.md)
 
-![image](https://github.com/Team-310/Team-310.github.io/assets/156128630/2f74cba6-a90e-4d2d-b1cb-1f53f4900ed7)
+
 
 *Figure 10. MCC Configuration Pin-Out*
 
