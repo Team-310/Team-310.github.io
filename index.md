@@ -33,8 +33,7 @@ title: Flora Forecast
 [*Figure 3. Categorized User Needs*](figure3.md)
 
 
-*Figure 4. Ranked User Needs in Categories*
-![un 3](https://github.com/Team-310/Team-310.github.io/assets/157058267/5367b766-9f8a-4106-9bfb-5b95a280518d)
+[*Figure 4. Ranked User Needs in Categories*](figure4.md)
 
 *Figure 5. Ranked User Needs in Catgories from 3 to 1 stars*
 ![un 3](https://github.com/Team-310/Team-310.github.io/assets/157058267/eb51f35f-d932-493a-a5b3-9a8a66454e85)
