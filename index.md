@@ -56,9 +56,8 @@ title: Flora Forecast
 
 
 
-*Figure 11. MCC Configuration ESUART2*
+[*Figure 11. MCC Configuration ESUART2*](figure11.md)
 
-<img width="428" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/12c0e922-4bf9-47a0-937f-61a7483d6fc9">
 
 *Figure 12. MCC Configuration MSSP1*
 
