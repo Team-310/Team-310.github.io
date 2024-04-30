@@ -27,8 +27,8 @@ title: Flora Forecast
 ## Table of Figures 
 [*Figure 1. Meeting Schedule*](figure1.md)
 
-*Figure 2. User Needs on Jamboard (Unorganized, Unranked, Uncombined)*  
-![user needs yellow](https://github.com/Team-310/Team-310.github.io/assets/157058267/156edaf9-3b0e-4e22-851b-7c7b9b0d2921)
+[*Figure 2. User Needs on Jamboard (Unorganized, Unranked, Uncombined)*  ](figure2.md)
+
 
 *Figure 3. Categorized User Needs*
 ![user needs 2](https://github.com/Team-310/Team-310.github.io/assets/157058267/7391d182-8a62-4562-b35b-8d20787b10ee)
