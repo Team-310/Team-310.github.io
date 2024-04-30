@@ -45,8 +45,8 @@ title: Flora Forecast
 [*Figure 7. Brainstorming Ideas on Jamboard*](figure7.md)
 
 
-*Figure 8. Design Concepts Categorized into 3 Categories*
-![image](https://github.com/Team-310/Team-310.github.io/assets/157058267/f362140b-ba65-4762-80d7-e9a5df01ef8f) 
+[*Figure 8. Design Concepts Categorized into 3 Categories*]
+ 
 
 *Figure 9. ESP32 Website Data*
 
