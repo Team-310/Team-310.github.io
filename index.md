@@ -70,9 +70,9 @@ title: Flora Forecast
 
 
 
-*Figure 15. MCC Configuration Interrupt Module*
+[*Figure 15. MCC Configuration Interrupt Module*](figure15.md)
 
-<img width="343" alt="image" src="https://github.com/Team-310/Team-310.github.io/assets/156128630/6ca37d53-3179-4cc2-97ab-32fbbb392805">
+
 
 [![Presentation](https://github.com/Team-310/Team-310.github.io/assets/157059404/2e11aca0-808b-410a-80c5-11d1bce22244)](https://www.youtube.com/watch?v=Oss-YJy1qss&ab_channel=JuliaP)
 
