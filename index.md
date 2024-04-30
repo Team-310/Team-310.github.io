@@ -30,8 +30,8 @@ title: Flora Forecast
 [*Figure 2. User Needs on Jamboard (Unorganized, Unranked, Uncombined)*  ](figure2.md)
 
 
-*Figure 3. Categorized User Needs*
-![user needs 2](https://github.com/Team-310/Team-310.github.io/assets/157058267/7391d182-8a62-4562-b35b-8d20787b10ee)
+[*Figure 3. Categorized User Needs*](figure3.md)
+
 
 *Figure 4. Ranked User Needs in Categories*
 ![un 3](https://github.com/Team-310/Team-310.github.io/assets/157058267/5367b766-9f8a-4106-9bfb-5b95a280518d)
